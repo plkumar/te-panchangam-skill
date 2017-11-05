@@ -1,4 +1,4 @@
-node-web-scraper
-================
+Te-panchangam
 
-Simple web scraper to get a movie name, release year and community rating from IMDB.
+Experimental repo only.
+
